@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bash File Generator Challenge
 
 ## Project Goal
@@ -24,3 +25,6 @@ The challenge was successfully solved:
 - The script runs without errors  
 - File numbering continues correctly  
 - No duplicates or overwrites occur  
+=======
+# bash-scripting-challenge-lab-
+>>>>>>> 3f44f4904b27d3f0d8e42a542ca130ab7e730d15
