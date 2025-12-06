@@ -1,3 +1,4 @@
+  GNU nano 8.3                                   create_files.sh
 #!/bin/bash
 
 basename="hani"
@@ -14,3 +15,18 @@ for i in $(seq 1 25); do
 done
 
 ls -l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
